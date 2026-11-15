@@ -1,0 +1,29 @@
+{
+ "app": "Weight Management App Concept",
+ "start": "design-00",
+ "screens": [
+  {
+   "slug": "design-00",
+   "name": "Design_00",
+   "page": "Page 1",
+   "w": 414,
+   "h": 896,
+   "elements": 107,
+   "links": 1
+  },
+  {
+   "slug": "design-01",
+   "name": "Design_01",
+   "page": "Page 1",
+   "w": 414,
+   "h": 896,
+   "elements": 63,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "nunito"
+ ]
+}
